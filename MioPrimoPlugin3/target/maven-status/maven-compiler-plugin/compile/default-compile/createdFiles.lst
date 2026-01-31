@@ -1,0 +1,10 @@
+me\ignz4c\mioprimoplugin3\commands\ClearInventory.class
+me\ignz4c\mioprimoplugin3\events\explodeEntity.class
+me\ignz4c\mioprimoplugin3\events\playerJoin.class
+me\ignz4c\mioprimoplugin3\TutorialPlugin.class
+me\ignz4c\mioprimoplugin3\commands\Heal.class
+me\ignz4c\mioprimoplugin3\commands\Warps.class
+me\ignz4c\mioprimoplugin3\commands\ExampleCommand.class
+me\ignz4c\mioprimoplugin3\commands\kitBase.class
+me\ignz4c\mioprimoplugin3\events\playerJoinKit.class
+me\ignz4c\mioprimoplugin3\commands\spawnZombie.class

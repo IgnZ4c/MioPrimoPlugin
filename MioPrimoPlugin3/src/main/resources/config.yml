@@ -1,0 +1,6 @@
+youAreAwesome: true
+messaggi:
+  principale: "§aHai usato il comando principale!"
+  alias1: "§bAlias 1 eseguito con successo."
+  alias2: "§cAlias 2 eseguito con successo."
+  spawn-zombie: "§aZombie spawnato con successo."

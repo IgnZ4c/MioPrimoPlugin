@@ -1,0 +1,30 @@
+name: CoolPlugin
+version: 1.0
+main: me.ignz4c.mioprimoplugin3.TutorialPlugin
+commands:
+  exampleCommand:
+    description: test
+    usage: /command
+    aliases: [alias1, alias2]
+  heal:
+    description: Cura un giocatore
+    usage: /heal [nome]
+    aliases: [h, cura]
+    permission: tutorial.heal
+    permission-message: Non hai i permessi per utilizzare questo comando!
+  warp:
+    description: Gestisce i teletrasporti (warps).
+    usage: |
+      /warp [nome] (per teletrasportarsi)
+      /warp set [nome] (per impostare un warp)
+      /warp delete [nome] (per eliminare un warp)
+    aliases: [w, teletrasporto]
+    permission: tutorial.warp
+  clearinventory:
+    description: Svuota l'inventario del giocatore che esegue il comando.
+    usage: /<command>
+  spawnzombie:
+    description: Spawna uno zombie
+    usage: /<command>
+    aliases: [ szombie ]
+    permission: spawnmob.zombie
